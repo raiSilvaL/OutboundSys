@@ -82,4 +82,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para 
 
 ## Contato
 
-Para dúvidas ou suporte, entre em contato com Rai da Silva em rai.lima@luftsolutions.com.br.
+Para dúvidas ou suporte, entre em contato com Rai da Silva Lima em rai.lima@luftsolutions.com.br ou raierai123456789@gmail.com.
